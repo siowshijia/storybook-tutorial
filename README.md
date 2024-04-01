@@ -26,9 +26,6 @@ This template ships with the main Vue and Storybook configuration files you'll n
     Navigate into your new site’s directory and install the necessary dependencies.
 
     ```shell
-    # Navigate to the directory
-    cd taskbox/
-
     # Install the dependencies
     yarn
     ```
